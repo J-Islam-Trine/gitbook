@@ -4,6 +4,8 @@
 
 ## জাভাস্ক্রিপ্ট \(Javascript\)
 
+* [ক্যানভাস এপিআই\(Canvas API\)](javascript/canvas-api.md)
+
 ## রিঅ্যাক্ট\(React JS\)
 
 ## নোড জেএস\(Node JS\)
@@ -21,4 +23,5 @@
 * [মঙ্গোজ\(Mongoose ODM\)](mongoose-odm.md)
 * [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](environment-variables-and-dot-env.md)
 * [মঙ্গোডিবি \(MongoDB\)](mongodb.md)
+* [মঙ্গোডিবি থেকে ক্রিয়েট, রিড, আপডেট, ডিলিট \(MongoDB CRUD\)](mongodb-crud.md)
 
