@@ -14,4 +14,11 @@
 * [বেসিক রাউটিং\(Basic Routing\)](node-js/basic-routing.md)
 * [রাউট হ্যান্ডলারের রেসপন্স \(Response from Route Handlers\)](node-js/response-from-route-handlers.md)
 * [মিডলওয়্যার \(Middleware\)](node-js/middleware.md)
+* [কাস্টম মিডলওয়্যার\(Custom MiddleWare\)](node-js/custom-middleware.md)
+
+---
+
+* [মঙ্গোজ\(Mongoose ODM\)](mongoose-odm.md)
+* [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](environment-variables-and-dot-env.md)
+* [মঙ্গোডিবি \(MongoDB\)](mongodb.md)
 
