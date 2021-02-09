@@ -21,6 +21,10 @@
 * [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](node-js/environment-variables-and-dot-env.md)
 * [মঙ্গোডিবি \(MongoDB\)](node-js/mongodb.md)
 * [মঙ্গোডিবি থেকে ক্রিয়েট, রিড, আপডেট, ডিলিট \(MongoDB CRUD\)](node-js/mongodb-crud.md)
+* [ইউজার ম্যানেজমেন্ট \(User Pool Management\)](node-js/user-pool-management/README.md)
+  * [ইউজার এড করা \(Adding a new user to database\)](node-js/user-pool-management/adding-a-new-user-to-database.md)
+
+## ইউজার ম্যানেজমেন্ট\(User Pool Management\)
 
 ## টেস্টিং\(Testing\)
 
