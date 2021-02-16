@@ -46,7 +46,7 @@ display: none;
 
 ### ক্যানভাস কো-অর্ডিনেট
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### ক্যানভাসে ইমেজ ড্র করা
 
