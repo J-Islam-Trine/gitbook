@@ -29,8 +29,6 @@
     * [ইউজার এড করা \(Adding a new user to database\)](back-end/node-js/user-pool-management/adding-a-new-user-to-database.md)
   * [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](back-end/node-js/environment-variables-and-dot-env.md)
 
-## ইউজার ম্যানেজমেন্ট\(User Pool Management\)
-
 ## টেস্টিং\(Testing\)
 
 * [এপিআই টেস্টিং\(API Testing With Supertest\)](testing/api-testing-with-supertest.md)
