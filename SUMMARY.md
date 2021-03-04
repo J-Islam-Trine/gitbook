@@ -18,6 +18,7 @@
   * [রাউটিং\(Routing\)](back-end/node-js/routing/README.md)
     * [বেসিক রাউটিং\(Basic Routing\)](back-end/node-js/routing/basic-routing.md)
     * [রাউট হ্যান্ডলারের রেসপন্স \(Response from Route Handlers\)](back-end/node-js/routing/response-from-route-handlers.md)
+    * [এক্সপ্রেস রাউটার\(express.router\)](back-end/node-js/routing/express.router.md)
   * [মিডলওয়্যার\(Middleware\)](back-end/node-js/middleware/README.md)
     * [বেসিক মিডলওয়্যার \(Basic Middleware\)](back-end/node-js/middleware/middleware.md)
     * [কাস্টম মিডলওয়্যার\(Custom MiddleWare\)](back-end/node-js/middleware/custom-middleware.md)
