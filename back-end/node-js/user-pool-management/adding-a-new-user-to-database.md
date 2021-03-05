@@ -1,4 +1,4 @@
-# ইউজার এড করা \(Adding a new user to database\)
+# পাসওয়ার্ড হ্যাশ জেনারেট করা \(Generating Password Hash\)
 
 * bcrypt ইনস্টল করি।
 

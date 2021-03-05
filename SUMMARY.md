@@ -27,8 +27,12 @@
     * [মঙ্গোডিবি \(MongoDB\)](back-end/node-js/database/mongodb.md)
     * [মঙ্গোডিবি থেকে ক্রিয়েট, রিড, আপডেট, ডিলিট \(MongoDB CRUD\)](back-end/node-js/database/mongodb-crud.md)
   * [ইউজার ম্যানেজমেন্ট \(User Pool Management\)](back-end/node-js/user-pool-management/README.md)
-    * [ইউজার এড করা \(Adding a new user to database\)](back-end/node-js/user-pool-management/adding-a-new-user-to-database.md)
+    * [পাসওয়ার্ড হ্যাশ জেনারেট করা \(Generating Password Hash\)](back-end/node-js/user-pool-management/adding-a-new-user-to-database.md)
+  * [অথেনটিকেশন ও অথরাইজেশন\(Authentication & Authorization\)](back-end/node-js/authentication-and-authorization/README.md)
+    * [টোকেন ভিত্তিক অথেনটিকেশন\(Token based authentication\)](back-end/node-js/authentication-and-authorization/token-based-authentication.md)
   * [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](back-end/node-js/environment-variables-and-dot-env.md)
+  * [কোড রেফারেন্স](back-end/node-js/undefined/README.md)
+    * [ইউজার লগইন \(User Login Controller\)](back-end/node-js/undefined/user-login-controller.md)
 
 ## টেস্টিং\(Testing\)
 
