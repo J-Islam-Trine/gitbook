@@ -42,7 +42,7 @@ const token = jwt.sign(dataForToken, process.env.SECRET)
 
 ### রেফারেন্স
 
-{% page-ref page="../undefined/user-login-controller.md" %}
+{% page-ref page="../../../debug-zone/undefined/user-login-controller.md" %}
 
 
 

@@ -31,8 +31,6 @@
   * [অথেনটিকেশন ও অথরাইজেশন\(Authentication & Authorization\)](back-end/node-js/authentication-and-authorization/README.md)
     * [টোকেন ভিত্তিক অথেনটিকেশন\(Token based authentication\)](back-end/node-js/authentication-and-authorization/token-based-authentication.md)
   * [এনভায়রনমেন্ট ভ্যারিয়েবল\(Environment Variables & Dot Env\)](back-end/node-js/environment-variables-and-dot-env.md)
-  * [কোড রেফারেন্স](back-end/node-js/undefined/README.md)
-    * [ইউজার লগইন \(User Login Controller\)](back-end/node-js/undefined/user-login-controller.md)
 
 ## টেস্টিং\(Testing\)
 
@@ -42,4 +40,10 @@
 ## Debug Zone \(সমাধান সূত্র\)
 
 * [Express \(এক্সপ্রেস\)](debug-zone/express.md)
+* [কোড রেফারেন্স](debug-zone/undefined/README.md)
+  * [ইউজার লগইন \(User Login Controller\)](debug-zone/undefined/user-login-controller.md)
+
+## স্নিপেট \(snippets\)
+
+* [পাসওয়ার্ড হ্যাশ জেনারেট করা ও লগইন ডিটেইলস স্টোর করা](snippets/undefined.md)
 
