@@ -40,10 +40,19 @@
 ## Debug Zone \(সমাধান সূত্র\)
 
 * [Express \(এক্সপ্রেস\)](debug-zone/express.md)
-* [কোড রেফারেন্স](debug-zone/undefined/README.md)
-  * [ইউজার লগইন \(User Login Controller\)](debug-zone/undefined/user-login-controller.md)
+* [SQL](debug-zone/sql.md)
+
+---
+
+* [কোড রেফারেন্স](undefined/README.md)
+  * [ইউজার লগইন \(User Login Controller\)](undefined/user-login-controller.md)
 
 ## স্নিপেট \(snippets\)
 
 * [পাসওয়ার্ড হ্যাশ জেনারেট করা ও লগইন ডিটেইলস স্টোর করা](snippets/undefined.md)
+
+## অন্যান্য \(Others\)
+
+* [SQL](others/sql/README.md)
+  * [SQL queries](others/sql/sql-queries.md)
 
