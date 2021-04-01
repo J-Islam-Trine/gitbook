@@ -54,5 +54,8 @@
 ## অন্যান্য \(Others\)
 
 * [SQL](others/sql/README.md)
-  * [SQL queries](others/sql/sql-queries.md)
+  * [ডাটা টাইপস \(Data Types\)](others/sql/data-types.md)
+  * [ডাটাবেজ অপারেশনস](others/sql/sql-queries.md)
+  * [টেবিল অপারেশনস](others/sql/undefined.md)
+  * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
 

@@ -1,4 +1,4 @@
-# SQL queries
+# ডাটাবেজ অপারেশনস
 
 ### সব ডাটাবেজের তালিকা
 
@@ -29,4 +29,6 @@ SELECT database();
 ```sql
 user newDatabase;
 ```
+
+
 
