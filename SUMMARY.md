@@ -55,7 +55,10 @@
 
 * [SQL](others/sql/README.md)
   * [ডাটা টাইপস \(Data Types\)](others/sql/data-types.md)
+  * [কনস্ট্রেইন্টস \(Constraints\)](others/sql/constraints.md)
   * [ডাটাবেজ অপারেশনস](others/sql/sql-queries.md)
   * [টেবিল অপারেশনস](others/sql/undefined.md)
   * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
+  * [অন্যান্য \(Others\)](others/sql/others.md)
+  * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
 
