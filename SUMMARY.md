@@ -59,6 +59,7 @@
   * [ডাটাবেজ অপারেশনস](others/sql/sql-queries.md)
   * [টেবিল অপারেশনস](others/sql/undefined.md)
   * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
+  * [আউটপুট ফরম্যাট করা \(Formatting The Output\)](others/sql/formatting-the-output.md)
   * [অন্যান্য \(Others\)](others/sql/others.md)
   * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
 

@@ -1,29 +1,82 @@
 # ডাটা অপারেশনস \(Data Operation\)
 
-### টেবিলে ডাটা ইনসার্ট করা
+## ইনসার্ট \(Insert\)
+
+### INSERT INTO
 
 ```sql
-INSERT INTO table_name (COLUMN_1, ...,  COLUMN_N)
-VALUES                       (VALUE1,...,VALUEN),
-                             (VALUE1,...,VALUEN),
-                             (VALUE1,...,VALUEN),
+INSERT INTO table_name (column_1, ...,  column_n)
+VALUES                       (value1,...,valuen),
+                             (value1,...,valuem),
+                             (value1,...,valuen),
                              ....
                              ....
                              ....
-                             (VALUE1,...,VALUEN);
+                             (value1,...,valuen);
 ```
 
-### টেবিল থেকে সব ডেটা রিড করা
+## রিড \(Read\)
+
+### ALL
 
 ```sql
 SELECT * FROM table_name;
 ```
 
-### টেবিল থেকে কিছু ডেটা রিড করা
+### COLUMN\_NAME
 
 ```sql
-SELECT COLUMN_2, COLUMN_4 FROM table_name;
+SELECT column_2, column_4 FROM table_name;
 ```
+
+### WHERE
+
+```sql
+SELECT * FROM table_name
+WHERE condition;
+```
+
+## আপডেট \(Update\)
+
+### UPDATE ALL
+
+```sql
+UPDATE table_name
+SET column_name = new_value
+```
+
+### UPDATE WHERE
+
+```sql
+UPDATE table_name
+SET column_name = new_value
+WHERE some_condition_meets;
+```
+
+## ডিলিট \(Delete\)
+
+### DELETE ALL
+
+```sql
+DELETE FROM table_name;
+```
+
+"\*" হবে না।
+
+### DELETE WHERE
+
+```sql
+DELETE FROM table_name
+WHERE some_condition;
+```
+
+
+
+
+
+
+
+
 
 
 
