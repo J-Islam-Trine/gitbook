@@ -47,6 +47,8 @@
   * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
   * [আউটপুট ফরম্যাট করা \(Formatting The Output\)](others/sql/formatting-the-output.md)
   * [Bশোধনাগার \(The Refinery\)](others/sql/b-the-refinery.md)
+  * [মহান বিন্যাসক \(The Great Formatter\)](others/sql/the-great-formatter.md)
+  * [খোঁজ \(The Search\)](others/sql/the-search.md)
   * [স্ট্রিং অপারেশনস \(String Operations\)](others/sql/string-operations.md)
   * [অন্যান্য \(Others\)](others/sql/others.md)
   * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
