@@ -37,6 +37,20 @@
 * [এপিআই টেস্টিং\(API Testing With Supertest\)](testing/api-testing-with-supertest.md)
 * [ইউনিট টেস্টিং\(Unit Testing With Jest\)](testing/unit-testing-with-jest.md)
 
+## অন্যান্য \(Others\)
+
+* [SQL](others/sql/README.md)
+  * [ডাটা টাইপস \(Data Types\)](others/sql/data-types.md)
+  * [কনস্ট্রেইন্টস \(Constraints\)](others/sql/constraints.md)
+  * [ডাটাবেজ অপারেশনস](others/sql/sql-queries.md)
+  * [টেবিল অপারেশনস](others/sql/undefined.md)
+  * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
+  * [আউটপুট ফরম্যাট করা \(Formatting The Output\)](others/sql/formatting-the-output.md)
+  * [Bশোধনাগার \(The Refinery\)](others/sql/b-the-refinery.md)
+  * [স্ট্রিং অপারেশনস \(String Operations\)](others/sql/string-operations.md)
+  * [অন্যান্য \(Others\)](others/sql/others.md)
+  * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
+
 ## Debug Zone \(সমাধান সূত্র\)
 
 * [Express \(এক্সপ্রেস\)](debug-zone/express.md)
@@ -50,16 +64,4 @@
 ## স্নিপেট \(snippets\)
 
 * [পাসওয়ার্ড হ্যাশ জেনারেট করা ও লগইন ডিটেইলস স্টোর করা](snippets/undefined.md)
-
-## অন্যান্য \(Others\)
-
-* [SQL](others/sql/README.md)
-  * [ডাটা টাইপস \(Data Types\)](others/sql/data-types.md)
-  * [কনস্ট্রেইন্টস \(Constraints\)](others/sql/constraints.md)
-  * [ডাটাবেজ অপারেশনস](others/sql/sql-queries.md)
-  * [টেবিল অপারেশনস](others/sql/undefined.md)
-  * [ডাটা অপারেশনস \(Data Operation\)](others/sql/data-operation.md)
-  * [আউটপুট ফরম্যাট করা \(Formatting The Output\)](others/sql/formatting-the-output.md)
-  * [অন্যান্য \(Others\)](others/sql/others.md)
-  * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
 
