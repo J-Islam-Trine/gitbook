@@ -51,6 +51,7 @@
   * [খোঁজ \(The Search\)](others/sql/the-search.md)
   * [সমবায়ক সম \(Just Like An Aggregator\)](others/sql/just-like-an-aggregator.md)
   * [স্ট্রিং অপারেশনস \(String Operations\)](others/sql/string-operations.md)
+  * [দিন The Day](others/sql/the-day.md)
   * [অন্যান্য \(Others\)](others/sql/others.md)
   * [সংজ্ঞা \(Definitions\)](others/sql/definitions.md)
 
