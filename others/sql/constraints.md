@@ -4,7 +4,7 @@
 
 বিভিন্ন শর্ত যেগুলো ডাটা ইনসার্ট ও আপডেট ও ডিলিটকে নিয়ন্ত্রণ করে থাকে। 
 
-### NOT NULL
+## NOT NULL
 
 যদি NOT NULL কনস্ট্রেইন্ট দেয়া না থাকে,  তাহলে সে কলামটির ভ্যালু কখনো NULL হবে না।
 
@@ -16,7 +16,7 @@ CREATE TABLE cats2
   );
 ```
 
-### DEFAULT
+## DEFAULT
 
 DEFAULT দিয়ে কলামের জন্য ডিফল্ট ভ্যালু স্পেসিফাই করা যায়।
 
@@ -40,7 +40,7 @@ NOT NULL আছে + DEFAULT নেই = "   " / 0
 NOT NULL আছে + DEFAULT আছে = DEFAULT ভ্যালু \(তবে কোন ভাবেই NULL ভ্যালু নয়\)
 {% endhint %}
 
-### Primary key
+## Primary key
 
 Primary Key হচ্ছে টেবিলের প্রতিটা এন্ট্রি/টাপলের জন্য সেই কলাম/এট্রিবিউট যেটা প্রত্যেকটা এন্ট্রির জন্য আলাদা হবে আর NULL হবে না। Primary Key দিয়ে সবগুলো এন্ট্রিকে আলাদা আলাদা ভাবে চিহ্নিত করা যায়। নিচের মত করে এটা ডিফাইন করা যায়।
 
@@ -67,7 +67,23 @@ CREATE TABLE cats3
 
 একাধিক কলাম/এট্রিবিউট Primary Key হতেই পারে।
 
-### AUTO\_INCREMENT
+## FOREIGN KEY
+
+একটা টেবিল/এনটিটি সেটে অন্য আরেকটা টেবিলের Primary key-কে নির্দেশ করে। Foreign Key হিসেবে অন্য টেবিলের Primary Key যুক্ত করলে এমন কোন মান ইনসার্ট করা যায় না, যেটা foreign key যে টেবিলে রয়েছে তার সেই কলামটিতে নেই।
+
+```sql
+CREATE TABLE some_table (
+id INT NOT NULL AUTO_INCREMENT,
+...
+...,
+column4 INT,
+PRIMARY KEY (id),
+FOREIGN KEY (column4) 
+REFERENCES foreign_table(PRIMARY_KEY_in_foreign_table)
+);
+```
+
+## AUTO\_INCREMENT
 
 Primary Key এর ক্ষেত্রে প্রতিটা টাপলের জন্য সেটার ভ্যালু ইউনিক হলেও ইউজার ইনপুটের মাধ্যমে ইউনিক ভ্যালু মেইনটেইন করাটা টাফ। সেজন্য Primary Key এর ক্ষেত্রে AUTO\_INCREMENT কনস্ট্রেইন্ট যুক্ত করা থাকে, যেটা এই কলামের ভ্যালু প্রতিটির জন্য এক করে বৃদ্ধি করে।
 
