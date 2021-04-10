@@ -50,7 +50,7 @@ CREATE TABLE cats3
     id INT NOT NULL,
     name VARCHAR(20) DEFAULT 'no name provided',
     age INT DEFAULT 99,
-    PRIMARY KEY (id)
+    PRIMARY KEY (name, age)
   );
 ```
 
@@ -96,6 +96,40 @@ CREATE TABLE cats3
     PRIMARY KEY (id)
   );
 ```
+
+## UNIQUE
+
+কলামের প্রতিটা ভ্যালু ভিন্ন হবে।
+
+```sql
+CREATE TABLE some_table (
+        ...,
+        ...
+        column_name UNIQUE,
+        ...
+)
+```
+
+## CHECK
+
+চেক দিয়ে সেই টেবিলের কলামের জন্য নানা শর্ত বেঁধে দেয়া যায়। 
+
+```sql
+CREATE TABLE some_table (
+                column1 INT,
+                column2 INT,
+                ...,
+                ...,
+                CONSTRAINT `cant be equal` 
+                                CHECK(column1 <> column2)
+
+
+)
+```
+
+এখানে cant be equal নামের একটা কনস্ট্রেইন্ট দেয়া হয়েছে যেটা বলছে যে, column1 এর যে কোন ফিল্ডের ভ্যালু column2এর ফিল্ডের ভ্যালুর চেয়ে বড় বা ছোট হতে পারবে তবে সমান হতে পারবে না।
+
+
 
 
 
