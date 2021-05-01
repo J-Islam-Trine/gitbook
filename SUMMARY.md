@@ -1,6 +1,6 @@
 # Table of contents
 
-* [স্বাগতম](README.md)
+* [Oasis](README.md)
 
 ## ফ্রন্ট-এন্ড\(Front-End\)
 
