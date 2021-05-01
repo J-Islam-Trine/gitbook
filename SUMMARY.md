@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Oasis](README.md)
+* [Oasis কী?](README.md)
 
 ## ফ্রন্ট-এন্ড\(Front-End\)
 
