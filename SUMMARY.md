@@ -65,8 +65,10 @@
 
 * [কোড রেফারেন্স](undefined/README.md)
   * [ইউজার লগইন \(User Login Controller\)](undefined/user-login-controller.md)
+  * [JWT টোকেন এক্সট্রাক্টর মিডলওয়্যার \(JWT Token Extractor Middleware\)](undefined/jwt-jwt-token-extractor-middleware.md)
 
 ## স্নিপেট \(snippets\)
 
 * [পাসওয়ার্ড হ্যাশ জেনারেট করা ও লগইন ডিটেইলস স্টোর করা](snippets/undefined.md)
+* [অথেনটিকেশন হেডার থেকে টোকেন নেয়া আর ভেরিফাই করা](snippets/undefined-2.md)
 
