@@ -38,3 +38,9 @@ const unknownEndpoint = (request, response) => {
 
 **এই মিডলওয়্যার সব সময় এরর হ্যান্ডলারের আগে দিয়ে এড করতে হবে।**
 
+## **কোড রেফারেন্স**
+
+{% page-ref page="../../../undefined/jwt-jwt-token-extractor-middleware.md" %}
+
+
+

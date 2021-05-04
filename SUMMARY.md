@@ -26,6 +26,7 @@
     * [মঙ্গোজ\(Mongoose ODM\)](back-end/node-js/database/mongoose-odm.md)
     * [মঙ্গোডিবি \(MongoDB\)](back-end/node-js/database/mongodb.md)
     * [মঙ্গোডিবি থেকে ক্রিয়েট, রিড, আপডেট, ডিলিট \(MongoDB CRUD\)](back-end/node-js/database/mongodb-crud.md)
+    * [populate\(\) - পপুলেট \#mongoose](back-end/node-js/database/populate-mongoose.md)
   * [ইউজার ম্যানেজমেন্ট \(User Pool Management\)](back-end/node-js/user-pool-management/README.md)
     * [পাসওয়ার্ড হ্যাশ জেনারেট করা \(Generating Password Hash\)](back-end/node-js/user-pool-management/adding-a-new-user-to-database.md)
   * [অথেনটিকেশন ও অথরাইজেশন\(Authentication & Authorization\)](back-end/node-js/authentication-and-authorization/README.md)
@@ -36,6 +37,7 @@
 
 * [এপিআই টেস্টিং\(API Testing With Supertest\)](testing/api-testing-with-supertest.md)
 * [ইউনিট টেস্টিং\(Unit Testing With Jest\)](testing/unit-testing-with-jest.md)
+* [টেস্ট লেখা নিয়ে কিছু পয়েন্ট \(My take on writing tests with Supertest\)](testing/my-take-on-writing-tests-with-supertest.md)
 
 ## অন্যান্য \(Others\)
 
@@ -65,7 +67,8 @@
 
 * [কোড রেফারেন্স](undefined/README.md)
   * [ইউজার লগইন \(User Login Controller\)](undefined/user-login-controller.md)
-  * [JWT টোকেন এক্সট্রাক্টর মিডলওয়্যার \(JWT Token Extractor Middleware\)](undefined/jwt-jwt-token-extractor-middleware.md)
+  * [JWT টোকেন আর ইউজার আইডি এক্সট্রাক্টর  মিডলওয়্যার \(JWT Token & User ID Extractor Middlewares\)](undefined/jwt-jwt-token-extractor-middleware.md)
+  * [একটি সম্পূর্ণ টেস্ট \(A complete test suite\)](undefined/a-complete-test-suite.md)
 
 ## স্নিপেট \(snippets\)
 
