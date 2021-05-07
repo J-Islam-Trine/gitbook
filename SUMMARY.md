@@ -7,6 +7,12 @@
 * [জাভাস্ক্রিপ্ট\(Javascript\)](front-end/javascript/README.md)
   * [ক্যানভাস এপিআই\(Canvas API\)](front-end/javascript/canvas-api.md)
 * [রিঅ্যাক্ট জেএস\(React JS\)](front-end/react-js-1.md)
+* [নেক্সট জেএস \(Next JS\)](front-end/next-js/README.md)
+  * [পেজ \(pages\)](front-end/next-js/pages.md)
+  * [লিংক \(Link\)](front-end/next-js/link.md)
+  * [হেড\(Head\)](front-end/next-js/head.md)
+  * [ইমেজ \(Image\)](front-end/next-js/image.md)
+  * [ইমেজ ও অন্যান্য স্ট্যাটিক ফাইল \(Static Assets\)](front-end/next-js/static-assets.md)
 
 ## ব্যাক-এন্ড\(Back-End\)
 
