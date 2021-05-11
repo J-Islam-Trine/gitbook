@@ -11,8 +11,12 @@
   * [পেজ \(pages\)](front-end/next-js/pages.md)
   * [লিংক \(Link\)](front-end/next-js/link.md)
   * [হেড\(Head\)](front-end/next-js/head.md)
+  * [অ্যাপ \(App\)](front-end/next-js/app.md)
   * [ইমেজ \(Image\)](front-end/next-js/image.md)
   * [ইমেজ ও অন্যান্য স্ট্যাটিক ফাইল \(Static Assets\)](front-end/next-js/static-assets.md)
+  * [স্টাইলিং \(Styling\)](front-end/next-js/styling/README.md)
+    * [কম্পোনেন্ট লেভেল স্টাইলিং \(Component Level Styling\)](front-end/next-js/styling/untitled.md)
+    * [গ্লোবাল স্টাইলিং \(Global Styling\)](front-end/next-js/styling/global-styling.md)
 
 ## ব্যাক-এন্ড\(Back-End\)
 
