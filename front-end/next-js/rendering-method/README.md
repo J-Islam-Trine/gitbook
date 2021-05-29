@@ -6,7 +6,7 @@
 
 প্রিরেন্ডারিং-এর দুইটা টেকনিক রয়েছে। 
 
-### Static Generation
+### [Static Generation](getstaticprops.md)
 
 এটা খুবই পুরনো আর পরিচিত টেকনিক। যেমন, Gatsby ব্যবহার করে থাকে।
 
