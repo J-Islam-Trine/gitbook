@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Oasis কী?](README.md)
+* [প্রথম পাতা](README.md)
 
 ## ফ্রন্ট-এন্ড\(Front-End\)
 
@@ -10,8 +10,10 @@
   * [কম্পোনেন্টস \(Components\)](front-end/react-js-1/components/README.md)
     * [ফাংশন কম্পোনেন্ট \(Function Component\)](front-end/react-js-1/components/function-component.md)
     * [এক্সপোর্ট/ইমপোর্ট\(Export/Import\)](front-end/react-js-1/components/export-import.md)
+  * [ফর্ম হ্যান্ডল করা \(Handling Form\)](front-end/react-js-1/handling-form.md)
   * [হুকস \(Hooks\)](front-end/react-js-1/hooks/README.md)
     * [স্টেট হুক \(useState\)](front-end/react-js-1/hooks/usestate.md)
+    * [সাইড ইফেক্ট হুক \(useEffect\)](front-end/react-js-1/hooks/useeffect.md)
 * [নেক্সট জেএস \(Next JS\)](front-end/next-js/README.md)
   * [পেজ \(pages\)](front-end/next-js/pages.md)
   * [লিংক \(Link\)](front-end/next-js/link.md)
