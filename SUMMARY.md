@@ -13,6 +13,7 @@
   * [প্রপস \(Props\)](front-end/react-js-1/props/README.md)
     * [প্রপস \(An intro to props\)](front-end/react-js-1/props/an-intro-to-props.md)
     * [চাইল্ড কম্পোনেন্ট \(props.children\)](front-end/react-js-1/props/props.children.md)
+    * [প্রপ চেক করা\(proptypes\)](front-end/react-js-1/props/proptypes.md)
   * [ফর্ম হ্যান্ডল করা \(Handling Form\)](front-end/react-js-1/handling-form.md)
   * [হুকস \(Hooks\)](front-end/react-js-1/hooks/README.md)
     * [স্টেট হুক \(useState\)](front-end/react-js-1/hooks/usestate.md)
