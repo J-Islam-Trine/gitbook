@@ -16,7 +16,7 @@ npm install --save prop-types
 
 ```javascript
 import PropTypes from 'prop-types'
-const Message = ({type, content, handler) => {
+const Message = ({type, content, handler}) => {
     //...
     //...
     
@@ -31,8 +31,6 @@ Message.propTypes = {
         content: PropTypes.string,
         handler: Proptypes.func.isRequired
         }
-
-}
 ```
 
 
