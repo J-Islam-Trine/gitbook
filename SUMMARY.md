@@ -76,6 +76,9 @@
 
 * [এপিআই টেস্টিং\(API Testing With Supertest\)](testing/api-testing-with-supertest.md)
 * [ইউনিট টেস্টিং\(Unit Testing With Jest\)](testing/unit-testing-with-jest.md)
+* [Cypress দিয়ে E2E টেস্টিং \(E2E Testing with Cypress\)](testing/cypress-e2e/README.md)
+  * [ইনস্টলেশন, ইনিশিয়াল সেটআপ \(Installation & Initial Setup\)](testing/cypress-e2e/installation-and-initial-setup.md)
+  * [Cypress-এ টেস্ট লেখা \(Writing tests\)](testing/cypress-e2e/cypress-writing-tests.md)
 * [টেস্ট লেখা নিয়ে কিছু পয়েন্ট \(My take on writing tests with Supertest\)](testing/my-take-on-writing-tests-with-supertest.md)
 
 ## অন্যান্য \(Others\)
