@@ -20,5 +20,23 @@ describe('The quintential App', function() {
 ### Mocha
 {% endhint %}
 
+### টেস্টের শুরুতে বার বার করতে হয় এমন কিছুর জন্য beforeEach ব্যবহার
+
+যেহেতু Cypress-এ Mocha ব্যবহার করা হয়, তাই আমরা চাইলে Mocha/Jest testing-এর মতই একটা beforeEach ব্লক ব্যবহার করতে পারি।
+
+```javascript
+describe('The quintential App', function() {
+    //শুরুতে বার বার করতে হয় 
+    //এমন কাজগুলোর জন্য beforeEach ব্লকের ব্যবহার 
+    beforeEach(function(){
+        //...
+        //...
+    })
+
+    //Test1
+    //Test2
+})
+```
+
 
 
