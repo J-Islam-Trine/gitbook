@@ -84,8 +84,8 @@
 
 ## সিএমএস\(CMS\)
 
-* [Sanity CMS](cms/sanity-cms.md)
-* [প্রারম্ভ \(Initial Setup\)](cms/initial-setup.md)
+* [Sanity CMS](cms/sanity-cms/README.md)
+  * [প্রারম্ভ \(Initial Setup & Booting Up\)](cms/sanity-cms/initial-setup.md)
 
 ## অন্যান্য \(Others\)
 
