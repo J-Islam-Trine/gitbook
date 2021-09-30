@@ -82,6 +82,11 @@
   * [Cypress-এর বিভিন্ন কমান্ড\(Different commands of Cypress\)](testing/cypress-e2e/cypress-different-commands-of-cypress.md)
 * [টেস্ট লেখা নিয়ে কিছু পয়েন্ট \(My take on writing tests with Supertest\)](testing/my-take-on-writing-tests-with-supertest.md)
 
+## সিএমএস\(CMS\)
+
+* [Sanity CMS](cms/sanity-cms.md)
+* [প্রারম্ভ \(Initial Setup\)](cms/initial-setup.md)
+
 ## অন্যান্য \(Others\)
 
 * [SQL](others/sql/README.md)
