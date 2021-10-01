@@ -34,17 +34,22 @@ fi**elds** -&gt; কী কী ফিল্ড থাকবে। এটা arra
 
 উপরের প্যারামিটার দিয়েই এবারে আমরা এই ডকুমেন্টের ফিল্ডগুলো লিখতে পারি। যেটার প্রতিটা ভ্যালু আবার একটা অব্জেক্ট হবে।
 
+{% code title="schema/blogPost.js" %}
 ```javascript
-{
+const blogPost = {
     name: 'blogPost',
     type: 'document',
     title: 'Blog Post',
     fields: [
+        
+        
         {
             name: "title",
             type: "string",
             title: "Post Title"
         },
+        
+        
         {
             name: 'postBody',
             type: 'array',
@@ -55,15 +60,48 @@ fi**elds** -&gt; কী কী ফিল্ড থাকবে। এটা arra
                 }
             ]
         },
+        
+        
         {
             name: 'publishDate',
             type: 'date',
             title: 'Publish Date'
+        },
+        
+        
+        {
+            title: 'Your Photo',
+            name: 'profilePhoto',
+            type: 'image'
+
         }
     ]
 
 }
-```
 
-উপরের fields-এর দ্বিতীয় ভ্যালুটা হলো ব্লক কন্টেন্ট, সেটার নোটটা আছে [**এখানে**](blockcontent-for-long-texts.md)।
+export default blogPost
+```
+{% endcode %}
+
+উপরের fields-এর দ্বিতীয় ভ্যালুটা হলো ব্লক কন্টেন্ট, সেটার নোটটা আছে [**এখানে**](blockcontent-for-long-texts.md)। এরপরেরটা তারিখের জন্য আর তারপরেরটা হচ্ছে image-এর জন্য।
+
+### Schema ফাইলে blogPost স্কিমা যুক্ত করা
+
+এবারে আমাদেরকে schemas ফোল্ডারের মধ্যে থাকা schema ফাইলে সেটাকে ইমপোর্ট করে আনতে হবে আর যুক্ত করতে হবে।
+
+{% code title="schema/schema.js" %}
+```javascript
+import blogPost from './blogPost.js'
+
+// Then we give our schema to the builder and provide the result to Sanity
+export default createSchema({
+    name: 'pages',
+    types: schemaTypes.concat([
+      pageContent,
+      blogPost
+    ])
+})
+
+```
+{% endcode %}
 
