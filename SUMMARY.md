@@ -86,6 +86,9 @@
 
 * [Sanity CMS](cms/sanity-cms/README.md)
   * [প্রারম্ভ \(Initial Setup & Booting Up\)](cms/sanity-cms/initial-setup.md)
+  * [Sanity-তে যেভাবে কন্টেন্ট গুছানো হয় \(How contents are structured in Sanity\)](cms/sanity-cms/sanity-how-contents-are-structured-in-sanity.md)
+  * [যেভাবে Schema লিখতে হয়\(How to write a schema for a document\)](cms/sanity-cms/schema-how-to-write-a-schema-for-a-document.md)
+  * [লম্বা লেখার জন্য ব্লক কন্টেন্ট \(BlockContent for long texts\)](cms/sanity-cms/blockcontent-for-long-texts.md)
 
 ## অন্যান্য \(Others\)
 
