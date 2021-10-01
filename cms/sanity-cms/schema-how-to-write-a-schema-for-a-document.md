@@ -44,11 +44,26 @@ fi**elds** -&gt; কী কী ফিল্ড থাকবে। এটা arra
             name: "title",
             type: "string",
             title: "Post Title"
+        },
+        {
+            name: 'postBody',
+            type: 'array',
+            title: 'Post Content',
+            of: [
+                {
+                    type: 'block'
+                }
+            ]
+        },
+        {
+            name: 'publishDate',
+            type: 'date',
+            title: 'Publish Date'
         }
-    
-    
     ]
 
 }
 ```
+
+উপরের fields-এর দ্বিতীয় ভ্যালুটা হলো ব্লক কন্টেন্ট, সেটার নোটটা আছে [**এখানে**](blockcontent-for-long-texts.md)।
 
